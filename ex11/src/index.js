@@ -1,0 +1,11 @@
+function main() {
+    //Only change code bellow this line
+var lastName = "Tesla";
+var thirdLetterOfLastName = lastName[2];
+    //Only change code above this line
+    
+    return thirdLetterOfLastName;
+    
+    }
+    console.log(main());
+    module.export = main;
